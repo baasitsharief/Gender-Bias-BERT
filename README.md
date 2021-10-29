@@ -1,5 +1,5 @@
 # Gender-Bias-BERT
-A BERT based model to determine the Genderness of the topic in a text 
+A BERT based model to determine the Genderness of the topic in a text in TF2.0
 
 Dataset - MDGender
 
