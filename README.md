@@ -1,6 +1,6 @@
 # Gender-Bias-BERT
-A BERT based model to determine the Genderness of the topic in a text in TF2.0
+A BERT based model to analyze and determine the Genderness of the topic in a text in TF2.0
 
-Dataset - MDGender
+Dataset and the Model - MDGender - "About" inferences (https://drive.google.com/drive/folders/1on2PAbMhS8E3EKGMhxyWUUj3s1YFRNj7?usp=sharing) 
 
-Model - https://www.amazon.com/clouddrive/share/JyvM9gKZTaKeNkQk7xwtsrZcvG9juhPqHqCYcyYM5Us
+Notebook file - 
