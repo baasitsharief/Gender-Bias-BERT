@@ -34,7 +34,7 @@ optimizer = optimization.create_optimizer(init_lr=init_lr,
 ### Loss and Accuracy Curves
 ![curves](curves.png)
 
-### Classification report and Confusion Matrix
+### Classification Report
 
 ```
               precision    recall  f1-score   support
